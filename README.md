@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React native and trpc**
 
-- 👨‍💻 All of my projects are available at [https://franekmarciniak.pl/projects](https://franekmarciniak.pl/projects)
-
 - 📫 How to reach me **contact@franekmarciniak.pl**
 
 <h3 align="left">Connect with me:</h3>
