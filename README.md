@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Franek</h1>
 <h3 align="center">A passionate fullstack web developer from Poland</h3>
 
-- 🔭 I’m currently working on [Mars school register](https://github.com/FranekMarciniak/fullstack-school-register)
+- 🔭 I’m currently working as a fullstack developer in All for one Poland
 
-- 🌱 I’m currently learning **NextJS with typescript**
+- 🌱 I’m currently learning **React native and trpc**
 
 - 👨‍💻 All of my projects are available at [https://franekmarciniak.pl/projects](https://franekmarciniak.pl/projects)
 
