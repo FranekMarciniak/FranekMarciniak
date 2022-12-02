@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a fullstack developer in All for one Poland
 
-- 🌱 I’m currently learning **React native and trpc**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **contact@franekmarciniak.pl**
 
