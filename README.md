@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franek</h1>
 <h3 align="center">A passionate fullstack web developer from Poland</h3>
 
-- 🔭 I’m currently working as a fullstack developer in All for one Poland
+- 🔭 I’m currently working as a fullstack engineer at Karhoo
 
 - 🌱 I’m currently learning **Golang**
 
