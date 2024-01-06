@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working as a fullstack engineer at Karhoo
 
-- 🌱 I’m currently learning **Golang**
-
 - 📫 How to reach me **contact@franekmarciniak.pl**
 
 <h3 align="left">Connect with me:</h3>
